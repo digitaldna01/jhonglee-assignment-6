@@ -23,3 +23,6 @@ ENV/
 dist/
 build/
 *.egg-info/
+
+# Plot files
+static/
